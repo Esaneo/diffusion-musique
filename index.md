@@ -1,8 +1,11 @@
 
-Diffusion musique
+# Diffusion musique
 
 ARE DYNAMIC 2021-2022 -- ARNOUX Constance, BAITICHE Chanez,TEBBAL Anès
+
+Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus
 English version
+
 Présentation de l'équipe
 ( ͡° ͜ʖ ͡°) 	(´・ω・｀) 	ಠ_ಠ
 C.Arnoux 	A. Tebbal 	C. Baitiche
