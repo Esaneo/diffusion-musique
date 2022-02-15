@@ -26,12 +26,14 @@ English version
 
 **Public:** Age, sexe, nationalite.
 
-Présentation structurée des résultats
+## Présentation structurée des résultats
 
-Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (avec une analyse critique).
-Lien vers page de blog : C'est ici !
-Bibliographie :
+Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-Carte mentale de vos mots-clés, en utilisant Framindmap
+## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
-Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. <= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)
+## Bibliographie :
+
+**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
+
+Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
