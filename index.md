@@ -7,8 +7,9 @@ Résumé de quelques lignes présentant l'objectif de votre projet, la méthode 
 English version
 
 Présentation de l'équipe
-( ͡° ͜ʖ ͡°) 	(´・ω・｀) 	ಠ_ಠ
-C.Arnoux 	A. Tebbal 	C. Baitiche
+|( ͡° ͜ʖ ͡°)| (´・ω・｀) | ಠ_ಠ | 
+|-----|--|--|
+|C.Arnoux |	A. Tebbal |	C. Baitiche|
 Description synthétique du projet
 
 Problématique : En quoi un.e artiste, grâce à ses musiques, est apprécié.e par un type de public particulier?
