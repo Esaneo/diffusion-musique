@@ -22,7 +22,7 @@ English version
 **Objectifs :** Observer la diffusion d'une musique d'un.e artiste dans différents groupes d'individus.
 
 **Critère(s) d'évaluation :** 
-**Artiste:** Age, sexe, nationalite, style, nombre d'abonnés sur youtube, nombre de musiques, langues de paroles, maximum de nombre de vus sur Youtube.
+**Artiste:** Age, sexe, nationalite, nombre d'abonnés sur Youtube.
 
 **Public:** Age, sexe, nationalite.
 
